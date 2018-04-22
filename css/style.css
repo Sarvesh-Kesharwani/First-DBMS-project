@@ -7,7 +7,11 @@ html {
 }
 
 body {
-  background: #ffffff; /* #c1bdba */
+  margin: 0 auto;
+  background-image: url("img/g.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #404040 ;
   font-family: 'Titillium Web', sans-serif;
 }
 
@@ -22,7 +26,7 @@ a:hover {
 }
 
 .form {
-  background: rgba(19, 35, 47, 0.9); 
+  background: rgba(19, 35, 47, 0.9);
   padding: 40px;
   max-width: 600px;
   margin: 40px auto;
